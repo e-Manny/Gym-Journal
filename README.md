@@ -1,5 +1,5 @@
 # Gym Journal
-Introducing "Gym Journal" - the ultimate tool for fitness enthusiasts who want to take their training to the next level. With our powerful CRUD web app, you can easily track your workouts, and monitor your progress in real-time.
+Introducing "Gym Journal" - the ultimate tool for fitness enthusiasts who want to take their training to the next level. With this powerful CRUD web app, you can easily track your workouts, and monitor your progress in real-time!
 
 ![gymJournal](https://user-images.githubusercontent.com/84434314/219560479-e91178d9-67c6-4176-8c9e-d7524563447a.gif)
 
